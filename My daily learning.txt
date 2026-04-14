@@ -1,0 +1,1 @@
+Docker is a tool that lets you package an application with everything you needs to run such as code,lib,system tools and settings
