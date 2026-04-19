@@ -4,3 +4,4 @@ VPC flow logs->to capture info on incomming and outgoing traffic in AWS vpc infr
 Today i learned about a new software as guidee this is a best software for AI video creation
 AWS security bulletins->staying upto date on aws security announcements
 AWS CONTROL TOWER->Automate manage secure well architecturedmulti account aws envioronments
+AWS consolidated billing is connecting multiple member aws accounts to one aws organization account
