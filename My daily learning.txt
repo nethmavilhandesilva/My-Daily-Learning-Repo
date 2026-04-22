@@ -17,3 +17,4 @@ Amazon EKS
 → Run containers using Kubernetes (more advanced)
 AWS Fargate
 → Run containers without managing servers at all
+AWS is a cloud platform where you can host applications, databases, storage, etc.
