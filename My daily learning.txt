@@ -5,3 +5,15 @@ Today i learned about a new software as guidee this is a best software for AI vi
 AWS security bulletins->staying upto date on aws security announcements
 AWS CONTROL TOWER->Automate manage secure well architecturedmulti account aws envioronments
 AWS consolidated billing is connecting multiple member aws accounts to one aws organization account
+So what is “AWS Docker”?
+
+It usually means running Docker containers on AWS cloud services.
+
+AWS provides services to run Docker containers easily:
+
+Amazon ECS
+→ Run and manage Docker containers without managing servers
+Amazon EKS
+→ Run containers using Kubernetes (more advanced)
+AWS Fargate
+→ Run containers without managing servers at all
