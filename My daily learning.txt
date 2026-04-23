@@ -18,3 +18,4 @@ Amazon EKS
 AWS Fargate
 → Run containers without managing servers at all
 AWS is a cloud platform where you can host applications, databases, storage, etc.
+Amazon Web Services (AWS) = cloud platform to run apps, servers, storage, databases.
