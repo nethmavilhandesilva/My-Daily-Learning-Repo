@@ -19,3 +19,4 @@ AWS Fargate
 → Run containers without managing servers at all
 AWS is a cloud platform where you can host applications, databases, storage, etc.
 Amazon Web Services (AWS) = cloud platform to run apps, servers, storage, databases.
+AWS Elastic Beanstalk is designed specially for developers who want to deploy application quickly without deepknowleadge on awsand we can just upload our code files
