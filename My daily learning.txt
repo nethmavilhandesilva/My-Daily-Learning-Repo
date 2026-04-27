@@ -22,3 +22,4 @@ Amazon Web Services (AWS) = cloud platform to run apps, servers, storage, databa
 AWS Elastic Beanstalk is designed specially for developers who want to deploy application quickly without deepknowleadge on awsand we can just upload our code files
 Amazon vpc->network connecting in a hybrid architecture
 AWS elastic beanstalk->ddos of capacity provisions load balancing
+Amazon Aurora(serverless)->Automated database instentaion auto scalling based on actual usage
