@@ -24,3 +24,7 @@ Amazon vpc->network connecting in a hybrid architecture
 AWS elastic beanstalk->ddos of capacity provisions load balancing
 Amazon Aurora(serverless)->Automated database instentaion auto scalling based on actual usage
 Supports latest AI models like GPT-5.x and other frontier models
+Amazon Bedrock improvements
+ More foundation models (Claude, Llama, Titan updates)
+ Fine-tuning + Retrieval-Augmented Generation (RAG) built-in
+ Agents for automating workflows
