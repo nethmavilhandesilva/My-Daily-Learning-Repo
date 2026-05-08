@@ -28,3 +28,7 @@ Amazon Bedrock improvements
  More foundation models (Claude, Llama, Titan updates)
  Fine-tuning + Retrieval-Augmented Generation (RAG) built-in
  Agents for automating workflows
+
+
+Amazon Bedrock is a fully managed generative AI service from Amazon Web Services
+ that allows developers to build and scale AI-powered applications without managing infrastructure or training models from scratch. It provides access to multiple foundation models from companies such as Anthropic, Meta, Mistral AI, Cohere, Stability AI, and Amazon’s own Titan models through a single API. With Bedrock, developers can create AI chatbots, text generators, image generation systems, document analyzers, AI assistants, and workflow automation tools while keeping data secure within the AWS ecosystem.
