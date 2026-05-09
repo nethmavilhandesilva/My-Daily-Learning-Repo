@@ -1,6 +1,6 @@
 Docker is a tool that lets you package an application with everything you needs to run such as code,lib,system tools and settings
 Amazon cloud front improves performance for a global user by reducing latency using content dilivery visibility(cdn)
-VPC flow logs->to capture info on incomming and outgoing traffic in AWS vpc infrastucture
+VPC2 flow logs->to capture info on incomming and outgoing traffic in AWS vpc infrastucture
 Today i learned about a new software as guidee this is a best software for AI video creation
 AWS security bulletins->staying upto date on aws security announcements
 AWS CONTROL TOWER->Automate manage secure well architecturedmulti account aws envioronments
